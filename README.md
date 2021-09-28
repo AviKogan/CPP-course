@@ -1,5 +1,6 @@
 # Exercises of the CPP course held in the summer semester of 2020
 
+Hebrew University of Jerusalem course\
 The two exercises given in the course:\
 \
 Exercise 5 (the first exercise) consists of two parts:\
