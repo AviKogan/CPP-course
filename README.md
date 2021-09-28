@@ -1,4 +1,4 @@
-# Exercises of the CPP course held in the summer semester of 2020
+# Exercises of "CPP" course held in the summer semester of 2020
 
 Hebrew University of Jerusalem course\
 The two exercises given in the course:\
